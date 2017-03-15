@@ -23,11 +23,11 @@ body {
 	width: 100%;
 	max-width: 700px;
 	margin: 0 auto;
-    position: absolute;
-    bottom: 8px;
-    right: 66px;
-    font-size: 18px;
-color: #fff;
+   	position: absolute;
+   	bottom: 8px;
+   	right: 66px;
+  	font-size: 18px;
+	color: #fff;
 
 
 }
