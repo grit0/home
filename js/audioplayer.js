@@ -1,5 +1,6 @@
 ;(function( $, window, document, undefined )
 {
+	var isHero = true;
 	var isTouch		  = 'ontouchstart' in window,
 		eStart		  = isTouch ? 'touchstart'	: 'mousedown',
 		eMove		  = isTouch ? 'touchmove'	: 'mousemove',
