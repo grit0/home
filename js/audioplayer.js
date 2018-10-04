@@ -1,5 +1,6 @@
 ;(function( $, window, document, undefined )
 {
+	var another		  = 1,
 	var isTouch		  = 'ontouchstart' in window,
 		eStart		  = isTouch ? 'touchstart'	: 'mousedown',
 		eMove		  = isTouch ? 'touchmove'	: 'mousemove',
